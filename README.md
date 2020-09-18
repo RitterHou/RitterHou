@@ -21,6 +21,7 @@
   * Java
   * Golang
   * JavaScript
+  * Lua
   * Scala
 </details>
 
@@ -40,16 +41,23 @@
   * HTML
   * CSS
   * Spark
+  * Kudu
   * Chrome Extension Development
   * ActiveMQ
   * RocketMQ
+  * Kafka
+  * OpenResty
   * Linux(Ubuntu, CentOS)
   * Shell
   * Nginx
+  * Keepalived
+  * Netty
+  * Docker
+  * ZooKeeper
   * Git
   * Lucene
   * Raft Consensus Algorithm
   * Maven
-  * Network Programming
+  * Network Programming(TCP/IP)
   * Web Crawler
 </details>

@@ -12,3 +12,35 @@
 
 * [dubbo-python2](https://github.com/apache/dubbo-python2): A Python Dubbo Client, Call the Java native dubbo provider
 * [Tomahawk](https://github.com/RitterHou/Tomahawk): Distributed key-value storage system, based on Raft Consensus Algorithm
+
+## Languages
+
+* Python
+* Java
+* Golang
+* JavaScript
+* Scala
+
+## Skills
+
+* Elasticsearch
+* Spring
+* Redis
+* MySQL
+* Django
+* Flask
+* Vue
+* React
+* Spark
+* Chrome Extension Development
+* ActiveMQ
+* RocketMQ
+* Linux(Ubuntu, CentOS)
+* Shell
+* Nginx
+* Git
+* Lucene
+* Raft Consensus Algorithm
+* Maven
+* Network Programming
+* Web Crawler

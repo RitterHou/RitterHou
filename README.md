@@ -33,6 +33,7 @@
   * Spring
   * Redis
   * MySQL
+  * SQLite
   * Django
   * Flask
   * jQuery

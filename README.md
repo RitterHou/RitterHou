@@ -34,8 +34,11 @@
   * MySQL
   * Django
   * Flask
+  * jQuery
   * Vue
   * React
+  * HTML
+  * CSS
   * Spark
   * Chrome Extension Development
   * ActiveMQ

@@ -1,4 +1,6 @@
-[![Derobukal](https://github-readme-stats.vercel.app/api?username=RitterHou)](https://www.nosuchfield.com)
+[![Derobukal](https://github-readme-stats.vercel.app/api?username=RitterHou&show_icons=false&include_all_commits=true)](https://www.nosuchfield.com)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RitterHou&hide=html&layout=compact)
 
 ## About Me
 

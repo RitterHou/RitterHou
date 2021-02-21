@@ -1,13 +1,6 @@
-![](https://github-profile-trophy.vercel.app/?username=RitterHou)
+[![Derobukal](https://github-readme-stats.vercel.app/api?username=RitterHou&show_icons=false&include_all_commits=true)](https://www.nosuchfield.com)
 
-<p>
-  <a href="https://www.nosuchfield.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=RitterHou&show_icons=false&include_all_commits=true" alt="my github stats" width="420"/>
-  </a>
-  <a href="https://github.com/RitterHou?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitterHou&hide=html&layout=compact" alt="languages" height="165"/>
-  </a>
-</p>
+[![RitterHou](https://github-readme-stats.vercel.app/api/top-langs/?username=RitterHou&hide=html&layout=compact)](https://github.com/RitterHou?tab=repositories)
 
 ## About Me
 

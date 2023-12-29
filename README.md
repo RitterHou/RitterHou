@@ -6,12 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RitterHou/RitterHou/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![RitterHou](https://github-readme-stats.vercel.app/api/top-langs/?username=RitterHou&hide=html&layout=compact)](https://github.com/RitterHou?tab=repositories)
+### Languages 👋
 
-## About Me
-
-* **Name:** Derobukal
-* **Role:** Backend Engineer
-* **Location:** Nanjing, China
-* **Email:** <derobukal@gmail.com>
-* **Blog:** <https://www.nosuchfield.com>
+[![RitterHou](https://github-readme-stats.vercel.app/api/top-langs/?username=RitterHou&hide=html&layout=donut)](https://github.com/RitterHou?tab=repositories)
